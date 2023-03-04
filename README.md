@@ -2,6 +2,9 @@
 
 
 An E commerce aplication built with  jetpack compose<br>
+This is an aplication built for learnig purposes -- i have  attached comments on areas that might prove hard to understand <br>
+If you like the application leave a like <br>
+Contact me on the LinkedIN handle  for more information<br>
 
 its amazing how a few lines of code manages to accomplish so much, no recycler views, forget  the adpaters, this is on a whole other level, once  you dip you toes into compose  i promise you its  hard to let go. its amazing<br>
 
