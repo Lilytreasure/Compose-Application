@@ -11,7 +11,7 @@ API-https://fakestoreapi.com/<br>
 #Screen shots
 <table>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/78819932/213650781-c9a3e8f9-091d-4366-af86-fc18a3458f57.png" alt="Home" style="width:250px;height:500px;"></td>
+    <td><img src="https://user-images.githubusercontent.com/78819932/222897029-c55e4bbd-65c2-4db9-bbbe-e32dad32c79b.png" alt="Home" style="width:250px;height:500px;"></td>
       
   </tr>
   
