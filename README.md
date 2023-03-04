@@ -7,6 +7,18 @@ its amazing how a few lines of code manages to accomplish so much, no recycler v
 
 API-https://fakestoreapi.com/<br>
 
+
+#Screen shots
+<table>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/78819932/213650781-c9a3e8f9-091d-4366-af86-fc18a3458f57.png" alt="Home" style="width:250px;height:500px;"></td>
+      
+  </tr>
+  
+</table><br>
+
+
+
 Technologies used <br>
 
 Kotlin - Kotlin is a programming language that can run on JVM. Google has announced Kotlin as one of its officially supported programming languages in Android Studio; and the Android community is migrating at a pace from Java to Kotlin.<br>
